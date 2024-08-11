@@ -1,0 +1,33 @@
+.line-container {
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+.line {
+  flex-grow: 1;
+  height: 1px;
+  background-color: #000;
+}
+.text {
+  margin: 0 10px;
+}
+.dotted-border {
+  border: 2px dotted #000; /* Adjust the color and width as needed */
+  border-radius: 5px;
+ 
+}
+.Profile{
+  text-align: center;
+}
+.btn1{
+  margin-right: 3%;
+  border-radius: 5px;
+}
+
+.bi{
+  width:30px;
+  height: 23px;
+  border: 1px solid black;
+  margin-right: 5px;
+  margin-left: 5px;
+}
